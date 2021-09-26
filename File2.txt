@@ -2,3 +2,8 @@
 def division(num1, num2):
 	res = num1/num2
 	return res
+
+
+# A00457249
+def mod(num1, num2):
+	return num1 % num2

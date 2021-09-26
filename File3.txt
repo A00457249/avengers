@@ -2,3 +2,8 @@
 def addition(num1, num2):
 	res = max(num1, num2)
 	return res
+
+
+# A00457249
+def avg(num1, num2):
+	return mean(num1, num2)
