@@ -1,0 +1,4 @@
+# Python function for Maximum.
+def addition(num1, num2):
+	res = max(num1, num2)
+	return res
