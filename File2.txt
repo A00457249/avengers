@@ -8,3 +8,7 @@ def division(num1, num2):
 # A00457249
 def mod(num1, num2):
 	return num1 % num2
+
+# A00455281 - Akshay Wagh
+def func(num1, num2):
+	return min(num1,num2) - max(num1, num2)

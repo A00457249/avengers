@@ -8,3 +8,8 @@ def addition(num1, num2):
 # A00457249
 def subtract(num1, num2):
 	return num1 - num2
+
+
+# A00455281 - Akshay Wagh
+def multiplication(num1, num2):
+	return num1 * num2
