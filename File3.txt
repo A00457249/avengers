@@ -8,3 +8,7 @@ def addition(num1, num2):
 # A00457249
 def avg(num1, num2):
 	return mean(num1, num2)
+
+# A00455281 - Akshay Wagh
+def pow(num1, num2)
+ 	return pow(num1, num2)
